@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Nesne Tabanlı Programlama Notları 
 
 Bu repo, Bandırma Onyedi Eylül Üniversitesi Yönetim Bilişim Sistemleri bölümü Nesne Tabanlı Programlama dersi boyunca oluşturulan haftalık notları düzenli bir yapıda toplar.
